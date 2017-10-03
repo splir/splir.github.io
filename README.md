@@ -19,4 +19,4 @@ TBD
 - Markiegi, Urtzi
 
 ## Licence
-Product Lines published in this repository 
+Simulink Product Line Repositories are published under [GPLv3](splir.github.io/LICENSE) license.
